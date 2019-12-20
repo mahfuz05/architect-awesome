@@ -344,12 +344,12 @@
 
 # data structure
 
-## queue
+## queue 
 
-*   ["java queue - detailed analysis of queue"](https://www.cnblogs.com/lemon-flm/p/7877898.html)
+- [] *   ["java queue - detailed analysis of queue"](https://www.cnblogs.com/lemon-flm/p/7877898.html)
 
-    *   Non-blocking queue: ConcurrentLinkedQueue (unbounded thread safe), using CAS mechanism (compareAndSwapObject atomic operation).
-    *   Blocking queues: ArrayBlockingQueue (bounded), LinkedBlockingQueue (unbounded), DelayQueue, PriorityBlockingQueue, using lock mechanism; use ReentrantLock lock.
+- []    *   Non-blocking queue: ConcurrentLinkedQueue (unbounded thread safe), using CAS mechanism (compareAndSwapObject atomic operation).
+- []    *   Blocking queues: ArrayBlockingQueue (bounded), LinkedBlockingQueue (unbounded), DelayQueue, PriorityBlockingQueue, using lock mechanism; use ReentrantLock lock.
 *   ["LinkedList, ConcurrentLinkedQueue, LinkedBlockingQueue Comparative Analysis"](https://www.cnblogs.com/mantu/p/5802393.html)
 
 ## set
